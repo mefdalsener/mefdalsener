@@ -32,20 +32,12 @@
 
 ---
 
-## 🧩 Interests & Goals
-
-- 🌌 Developing **indie games** focused on atmosphere and emotion  
-- 🎭 Exploring **character design** and **visual storytelling**  
-- 🎧 Dreaming of creating a game where **music, art, and feeling** merge seamlessly  
-- 💫 Always learning, drawing, and experimenting with creative ideas  
-
----
-
 ## 🌐 Connect With Me
 
-- ✉️ Reach me at **m.efdal66@hotmail.com**
-
 <p align="center">
+  <a href="mailto:m.efdal66@hotmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-m.efdal66%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
+  </a>
   <a href="https://www.instagram.com/m_efdalsener/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram%20(Personal)-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
