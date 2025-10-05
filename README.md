@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammed Efdal Şener 👋</h1>
+<h1 align="center">Hi, I'm Muhammed Efdal 👋</h1>
 <p align="center">
   <i>A passionate game developer and digital artist who loves bringing imagination to life through technology and art.</i><br/>
   🎓 Computer Engineering graduate from <b>Amasya University</b>
@@ -6,17 +6,15 @@
 
 ---
 
-### 💻 About Me
+## 💻 About Me
 
 - 🎮 Currently focused on **game development with Unity (C#)**  
-- 🖌️ Working on improving my skills in **3D modeling (Blender)** and **illustration (Clip Studio Paint)**  
-- 🌱 Interested in combining **art and interactivity** to create immersive storytelling experiences  
-- ✉️ Reach me at **m.efdal66@hotmail.com**  
-- 🐈 Planning to adopt two cats one day — **Alfredo** & **Mono** 😸  
+- 🖌️ Improving my skills in **3D modeling (Blender)** and **illustration (Clip Studio Paint)**  
+- 🌱 Interested in combining **art and interactivity** to create immersive experiences  
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 #### 💻 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -24,7 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264DE4?style=flat&logo=css3&logoColor=white)
 
-#### 🎨 Tools & Technologies
+#### 🧰 Tools & Technologies
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-1D1D1D?style=flat&logo=clip-studio-paint&logoColor=white)
@@ -34,16 +32,18 @@
 
 ---
 
-### 🧩 Interests & Goals
+## 🧩 Interests & Goals
 
-- 🌌 Developing **indie games** that focus on atmosphere and emotional storytelling  
+- 🌌 Developing **indie games** focused on atmosphere and emotion  
 - 🎭 Exploring **character design** and **visual storytelling**  
-- 🎧 Dreaming of creating a game where **music, art, and feeling** merge perfectly  
+- 🎧 Dreaming of creating a game where **music, art, and feeling** merge seamlessly  
 - 💫 Always learning, drawing, and experimenting with creative ideas  
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
+- ✉️ Reach me at **m.efdal66@hotmail.com**
 
 <p align="center">
   <a href="https://www.instagram.com/m_efdalsener/" target="_blank">
@@ -59,7 +59,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mefdalsener&theme=gruvbox&column=4&margin-w=15&margin-h=15" alt="trophies"/>
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mefdalsener&show_icons=true&theme=gruvbox" alt="stats"/>
