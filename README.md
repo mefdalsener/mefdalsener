@@ -26,11 +26,11 @@ I bridge the gap between technical engineering and artistic storytelling. My mis
 ### 🎨 Creative Toolkit
 
 - **Art Tools:**  
-  <img src="procreate.png" alt="Procreate" width="24" />
-  <img src="clip-studio-paint.png" alt="Clip Studio Paint" width="24" />
+  ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white)
+  ![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-000000?style=for-the-badge)
 
 - **Game Engines:**  
-  <img src="unity.png" alt="Unity" width="24" />
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 
 ---
 
