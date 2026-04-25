@@ -1,43 +1,44 @@
-# Merhaba, ben Muhammed Efdal Şener! 👋
+# Hi there, I'm Muhammed Efdal Şener! 👋
 
-### 💻 Bilgisayar Mühendisliği Öğrencisi | 🎮 Oyun Geliştirici | 🎨 İllüstratör
+### 💻 Computer Engineering Student | 🎮 Game Developer | 🎨 Illustrator
 
-Yazılımın teknik dünyası ile sanatın sınırsızlığını oyunlarda buluşturuyorum. İnsanların günlük stresten uzaklaşıp rahatlayabileceği, yeni hikayeler keşfederken mutlu olabileceği dünyalar inşa etmek en büyük tutkum. Bir mühendis adayı olarak sağlam yapılar kurarken, bir illüstratör olarak bu yapıların ruhunu tasarlıyorum.
-
----
-
-### 🚀 Nelerle İlgileniyorum?
-- **Oyun Geliştirme:** Mekanik tasarımlardan hikaye anlatıcılığına kadar uçtan uca oyun süreçleri.
-- **Görsel Sanatlar:** Karakter tasarımı, çevre çizimleri ve oyunlar için konsept sanat çalışmaları.
-- **Yazılım:** Performanslı sistemler ve yaratıcı kodlama çözümleri.
+I bridge the gap between technical engineering and artistic storytelling. My mission is to build immersive games where people can relax, find happiness, experiment with new ideas, and witness unique narratives. As an engineer, I focus on robust systems; as an illustrator, I breathe life into them.
 
 ---
 
-### 🛠️ Teknik Yetenekler
+### 🚀 What I'm Focused On
+- **Game Development:** Designing end-to-end gameplay mechanics and interactive experiences.
+- **Visual Arts:** Character design, environment concept art, and digital illustration.
+- **Software Engineering:** Writing clean, efficient code for complex problem-solving.
 
-| Dil | Seviye / Kullanım Alanı |
+---
+
+### 🛠️ Technical Skills
+
+| Language | Use Case |
 | :--- | :--- |
-| **C / C++** | Temel yazılım disiplini ve sistem programlama |
-| **C#** | Unity ile oyun geliştirme süreçleri |
-| **Python** | Veri yapıları, otomasyon ve hızlı prototipleme |
+| **C / C++** | Systems programming & core software foundations |
+| **C#** | Game logic and development (Unity) |
+| **Python** | Automation, data structures, and rapid prototyping |
 
 ---
 
-### 🎨 Tasarım Araçlarım
-- [Buraya kullandığın programları ekleyebilirsin: Procreate, Photoshop, Aseprite vb.]
+### 🎨 Creative Toolkit
+- **Art Tools:** [e.g., Procreate, Photoshop, Clip Studio Paint]
+- **Game Engines:** [e.g., Unity, Unreal Engine]
 
 ---
 
-### 📈 İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mefdalsener&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mefdalsener&layout=compact&theme=radical)
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mefdalsener&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mefdalsener&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Bana Ulaşın
-- [LinkedIn](LINK_ADRESİN)
-- [Portfolyo/Behance/ArtStation](LINK_ADRESİN)
-- [E-posta](MAIL_ADRESİN)
+### 📫 Connect with Me
+- [LinkedIn](YOUR_LINK)
+- [Art Portfolio](YOUR_ART_PORTFOLIO_LINK)
+- [Email](YOUR_EMAIL)
 
 ---
-*"Kodlarla dünyalar kuruyor, fırçalarla o dünyalara hayat veriyorum."*
+*"Building worlds with code, painting stories with brushes."*
