@@ -24,8 +24,8 @@ I bridge the gap between technical engineering and artistic storytelling. My mis
 ---
 
 ### 🎨 Creative Toolkit
-- **Art Tools:** [e.g., Procreate, Photoshop, Clip Studio Paint]
-- **Game Engines:** [e.g., Unity, Unreal Engine]
+- **Art Tools:** [Procreate, Clip Studio Paint]
+- **Game Engines:** [Unity]
 
 ---
 
