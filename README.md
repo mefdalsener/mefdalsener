@@ -1,4 +1,4 @@
-# Merhaba, ben [Adın]! 👋
+# Merhaba, ben Muhammed Efdal Şener! 👋
 
 ### 💻 Bilgisayar Mühendisliği Öğrencisi | 🎮 Oyun Geliştirici | 🎨 İllüstratör
 
